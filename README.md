@@ -1,9 +1,16 @@
-## Bonjour 👋, je suis @SAWADOGO-AIME
+# Bonjour 👋, je suis @SAWADOGO-AIME
 
+## À propos de moi
 👀 Je suis intéressé par le développement web et mobile.  
 🌱 Je suis actuellement en deuxième année d'informatique au Burkina Faso et j'apprends les techniques en Java, HTML, CSS, et MySQL.  
+
+## Collaboration
 💞️ Je cherche à collaborer sur des projets qui peuvent m'aider à évoluer en tant que développeur et contribuer à des applications significatives.  
+
+## Contact
 📫 Comment me contacter : [aimes889@gmail.com]  
+
+## Divers
 😄 Pronoms : Il/Lui  
 ⚡ Fait amusant : J'aime résoudre des défis de codage complexes et apprendre de nouveaux langages de programmation.
 
