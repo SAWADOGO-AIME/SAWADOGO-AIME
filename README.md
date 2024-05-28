@@ -9,8 +9,8 @@
 
 ## Contact
 📫 Comment me contacter :
-- [Email](mailto:https://img.shields.io/badge/Email-aimes889@gmail.com-red)](mailto:aimes889@gmail.com)
-- [LinkedIn](mailto:https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/aim%C3%A9-sawadogo-210546310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- ![Email](https://img.icons8.com/ios-glyphs/30/000000/email.png) [aimes889@gmail.com](mailto:aimes889@gmail.com)
+- ![LinkedIn](https://img.icons8.com/ios-filled/30/000000/linkedin.png) [https://www.linkedin.com/in/aim%C3%A9-sawadogo-210546310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/aim%C3%A9-sawadogo-210546310?utm_source=share&utm_campaign=share_v)
 
 ## Divers
 😄 Pronoms : Il/Lui  
