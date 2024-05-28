@@ -8,7 +8,7 @@
 💞️ Je cherche à collaborer sur des projets qui peuvent m'aider à évoluer en tant que développeur et contribuer à des applications significatives.  
 
 ## Contact
-📫 Comment me contacter : [aimes889@gmail.com]  
+📫 Comment me contacter : [aimes889@gmail.com]  [https://www.linkedin.com/in/aim%C3%A9-sawadogo-210546310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 
 ## Divers
 😄 Pronoms : Il/Lui  
